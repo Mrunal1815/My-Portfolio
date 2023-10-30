@@ -1,0 +1,98 @@
+*{
+	margin: 0;
+	padding: 0;
+	
+}
+.div1{
+/*	font-family: cursive;*/
+	font-size: 15px;
+	height: 40px;
+}
+.div{
+	background-color: lightcyan;
+	height: 600px;	
+
+}
+.div2{
+	font-family: cursive;
+	color: darkmagenta;
+	font-size: 30px;
+	font-weight: bolder;
+	padding-top: 170px;
+	
+}
+.hey{
+	margin-left: 700px;
+	padding-top: 30px;
+
+}
+.hey1{
+	margin-left: 750px;
+
+}
+.button{
+	margin-left: 900px;
+	font-size: 25px;
+}
+#gif{
+	margin-top: -250px;
+}
+.navbar{
+	background: rgb(2,0,36);
+	background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,87,121,1) 26%, rgba(0,212,255,1) 100%);
+	border: 2px solid black;
+	height: 60px;
+}
+.navitems{
+	list-style-type: none;
+	background-color: darkcyan;
+	text-decoration: none;
+
+}
+.liitems{
+	float: left;
+	padding-left: 10px;
+}
+.title{
+	padding-top: 20px;
+	padding-left: 50px;
+	padding-right: 0px;
+	color: white;
+}
+.title1{
+	font-size: 40px;
+	padding-left: 30px;
+	padding-top: 5px;
+
+}
+.title2{
+	padding-top: 20px;
+	padding-left: 850px;
+	color: white;
+
+}
+.img{
+	width: 40%;
+	padding-left: 10px;
+	margin-top: 0px;
+}
+#abt{
+	font-size: 25px;
+	padding-left: 60px;
+	padding-right: 60px;
+	padding-bottom: 30px;
+	background-color: lightpink;
+	color: deeppink;
+}
+#skill{
+	font-size: 25px;
+	padding-left: 60px;
+	padding-right: 60px;
+	background-color: orange;
+	
+}.pro{
+	font-size: 25px;
+	padding-left: 60px;
+	padding-right: 60px;
+	background-color: lightgreen;
+}
